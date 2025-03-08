@@ -31,3 +31,17 @@ section {
 section:nth-child(even) {
     background-color: #f4f4f4;
 }
+
+.missions-heading{
+    display: flex;
+    gap: 1rem;
+}
+.mission{
+    display: flex;
+    justify-items: center;
+    gap: 1rem;
+}
+.mission-tick{
+    width: 2rem;
+    object-fit: contain;
+}
