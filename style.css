@@ -34,7 +34,7 @@ section:nth-child(even) {
 
 #team {
     text-align: center;
-    padding: 50px;
+    padding: 20px;
     background-color: white;
 }
 
@@ -48,7 +48,7 @@ section:nth-child(even) {
 
 .member {
     background-color: white;
-    padding: 15px;
+    padding: 10px;
     border: 1px solid gray;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
